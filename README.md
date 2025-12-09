@@ -70,7 +70,7 @@ islamabad-mart-sales-analysis/
 │   └── islamabad_mart_sales.csv
 │
 ├── notebooks/               # Jupyter Notebook with the full analysis
-│   └── 01_pandas_project.ipynb
+│   └── islamabad_mart_sales_analysis.ipynb
 │
 ├── README.md                # This file
 └── .gitignore              # Standard git ignore file
@@ -90,7 +90,7 @@ islamabad-mart-sales-analysis/
     pip install pandas numpy
     ```
 
-3.  **Run the analysis:** Open and execute the cells in `notebooks/01_pandas_project.ipynb` using Jupyter Notebook or VS Code.
+3.  **Run the analysis:** Open and execute the cells in `notebooks/islamabad_mart_sales_analysis.ipynb` using Jupyter Notebook or VS Code.
 
 
 ## **👁️ Preview of Results**
