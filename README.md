@@ -20,7 +20,7 @@ They have 3 Key Questions;
 
 *   **Sources:** The Dataset that is used: `islamabad_mart_sales.csv`.
 *   **Description:**
-     - This dataset contains transectional sales information, encompassing details about customer purchases, the products involved, and the associated sales matrix.
+     - This dataset contains transactional sales information, encompassing details about customer purchases, the products involved, and the associated sales matrix.
 *   **Initial State:** The Dataset have Quality issues such as (text-formatted dates, missing values, & duplicate records).
 
 ## 🔧 **Data Wrangling & Cleaning**
@@ -30,7 +30,7 @@ They have 3 Key Questions;
     1.  **Standardized Text Data:** Converted the `Customer Name` column from uppercase to consistent Title Case.
     2.  **Handling Missing Values:** Filled missing values in `Product Category` column with 'Unknown'.
     3.  **Corrected Data Type:** Convert `Date` column from string to datetime format.
-    4.  **Removed Duplicates:** Removed 48 duplicate transection records.
+    4.  **Removed Duplicates:** Removed 48 duplicate transaction records.
     5.  **Feature Engineering**: Created a `DayOfWeek` column to analyze weekly sales pattern.
 
 *   **Final Dataset Shape:** `(1002, 5)`
