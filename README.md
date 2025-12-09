@@ -68,7 +68,7 @@ They have 3 Key Questions;
 **📁 Project Structure**
 
 ```
-Project-Alpha-Sales-Analysis/
+islamabad-mart-sales-analysis/
 │
 ├── data/                    # Contains the dataset
 │   └── islamabad_mart_sales.csv
@@ -94,8 +94,7 @@ Project-Alpha-Sales-Analysis/
     pip install pandas numpy
     ```
 
-3.  **Run the analysis:** Open and execute the cells in `notebooks/01_pandas.ipynb` using Jupyter Notebook or VS Code.
-
+3.  **Run the analysis:** Open and execute the cells in `notebooks/01_pandas_project.ipynb` using Jupyter Notebook or VS Code.
 
 ___
 
