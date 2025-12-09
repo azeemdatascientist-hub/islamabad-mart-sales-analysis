@@ -60,12 +60,8 @@ They have 3 Key Questions;
     *   **Recommendation:** Schedule additional staff and run targeted promotions or weekend discounts on Fridays and Saturdays to capitalize on this high-demand period.
 
 
----
+## **📁 Project Structure**
 
-### **SECTION 7: YOUR COMPLETE, READY-TO-USE TEXT**
-
-
-**📁 Project Structure**
 
 ```
 islamabad-mart-sales-analysis/
@@ -81,7 +77,7 @@ islamabad-mart-sales-analysis/
 ```
 
 
-**🚀 How to Run This Project**
+## **🚀 How to Run This Project**
 
 1.  **Clone the repository:**
     ```bash
@@ -96,10 +92,8 @@ islamabad-mart-sales-analysis/
 
 3.  **Run the analysis:** Open and execute the cells in `notebooks/01_pandas_project.ipynb` using Jupyter Notebook or VS Code.
 
-___
 
-
-**👁️ Preview of Results**
+## **👁️ Preview of Results**
 
 **Top 5 Customers by Revenue:**
 | Customer Name   | Total Sales (PKR) |
@@ -110,17 +104,15 @@ ___
 | Bilal Yousuf    | 3,262,560.91      |
 | Fatima Khan     | 3,176,709.50      |
 
-**---**
-*These five customers contribute over 66% of the total revenue, highlighting a high-value segment.*
 
-___
+ - *These five customers contribute over 66% of the total revenue, highlighting a high-value segment.*
 
 
-**🧠 Lessons Learned & Reflections**
+## **🧠 Lessons Learned & Reflections**
 
 *   **Technical:** This project solidified my understanding of core Pandas operations for data cleaning (`str.title()`, `fillna()`, `to_datetime()`, `drop_duplicates()`) and analysis (`groupby`, `sum`, `sort_values`).
 *   **Business:** I learned how to translate raw sales data into clear business recommendations, such as focusing loyalty efforts on top customers and aligning staffing with peak sales days.
 *   **Challenge:** Initially, I incorrectly tried to filter unique names instead of transforming the entire column. Debugging this error taught me the crucial difference between element-wise operations and filtering in Pandas.
 
-**---**
+**--->**
 *This project is part of my Data Science portfolio. Feedback is welcome!*
